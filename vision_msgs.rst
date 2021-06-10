@@ -55,4 +55,21 @@ RobotArray
 
 .. code-block:: cpp
 
-    Robot[]  robots 
+    Robot[]  robots
+
+Flag
+****
+
+Flags refer to the corner flags on the field. **base** is the coordinate of the base of the flag's pole.
+
+.. code-block:: cpp
+
+    std_msgs/Header header
+    geometry_msgs/Point base
+
+FlagArray
+*********
+
+.. code-block:: cpp
+
+    Flag[] flags
