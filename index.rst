@@ -10,6 +10,8 @@ This is a collection of `ROS2 interface packages`_ for the soccer domain.
 Custom message types specific to a soccer domain are defined in
 the packages, and are explained in these docs.
 
+The project is hosted on `Github`_.
+
 See :ref:`vision_msgs` page for more information.
 
 .. toctree::
@@ -19,3 +21,4 @@ See :ref:`vision_msgs` page for more information.
    related-ros2-packages
 
 .. _ROS2 interface packages: https://docs.ros.org/en/foxy/Tutorials/Custom-ROS2-Interfaces.html
+.. _Github: https://github.com/ijnek/soccer_interfaces
