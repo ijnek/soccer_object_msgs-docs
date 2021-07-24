@@ -20,5 +20,5 @@ See :ref:`vision_msgs` page for more information.
    vision_msgs
    related-ros2-packages
 
-.. _ROS2 interface packages: https://docs.ros.org/en/foxy/Tutorials/Custom-ROS2-Interfaces.html
+.. _ROS2 interface packages: https://docs.ros.org/en/galactic/Tutorials/Custom-ROS2-Interfaces.html
 .. _Github: https://github.com/ijnek/soccer_interfaces

@@ -6,6 +6,13 @@ Soccer Vision Msg files
 Goalpost
 ********
 
+``observed_top`` should be set to **true**, if ``point`` is being populated with a point at the top of the goalpost. This is how
+goalposts are reported in SimSpark.
+
+``observed_top`` should be set to **false**, if ``point`` is being poulated with a point at the bottom of the goalpost.
+
+Reporting a goalpost with a point other than the top or bottom, is not supported with this msg type. 
+
 .. code-block:: cpp
 
     std_msgs/Header header
