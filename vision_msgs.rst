@@ -3,6 +3,14 @@
 Soccer Vision Msg files
 #######################
 
+Ball
+****
+
+.. code-block:: cpp
+
+    std_msgs/Header header
+    geometry_msgs/Point center
+
 Goalpost
 ********
 
