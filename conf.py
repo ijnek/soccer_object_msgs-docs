@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Soccer Interfaces'
+project = 'Soccer Object Msgs'
 copyright = '2021, Kenji Brameld'
 author = 'Kenji Brameld'
 
@@ -85,7 +85,7 @@ html_theme = 'sphinx_rtd_theme'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = []
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -103,7 +103,7 @@ html_logo = 'images/icon.png'
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'SoccerInterfacesdoc'
+htmlhelp_basename = 'SoccerObjectMsgsdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -130,7 +130,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'SoccerInterfaces.tex', 'Soccer Interfaces Documentation',
+    (master_doc, 'SoccerObjectMsgs.tex', 'Soccer Object Msgs Documentation',
      'Kenji Brameld', 'manual'),
 ]
 
@@ -140,7 +140,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'soccerinterfaces', 'Soccer Interfaces Documentation',
+    (master_doc, 'soccerobjectmsgs', 'Soccer Object Msgs Documentation',
      [author], 1)
 ]
 
@@ -151,8 +151,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'SoccerInterfaces', 'Soccer Interfaces Documentation',
-     author, 'SoccerInterfaces', 'One line description of project.',
+    (master_doc, 'SoccerObjectMsgs', 'Soccer Object Msgs Documentation',
+     author, 'SoccerObjectMsgs', 'One line description of project.',
      'Miscellaneous'),
 ]
 

@@ -1,7 +1,7 @@
-.. _vision_msgs:
+.. _soccer_object_msgs:
 
-Soccer Vision Msg files
-#######################
+Soccer Object Msgs
+##################
 
 Ball
 ****

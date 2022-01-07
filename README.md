@@ -1,6 +1,6 @@
-# Soccer Interfaces Docs
+# Soccer Object Msgs Docs
 
-Repository for maintaining the Sphinx Documentation for the ROS2 Soccer Interfaces package.
+Repository for maintaining the Sphinx Documentation for the ROS2 Soccer Object Msgs package.
 
 ## Installing Dependencies
 `sudo apt install python3-sphinx-rtd-theme`
